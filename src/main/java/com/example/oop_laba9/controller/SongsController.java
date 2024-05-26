@@ -1,6 +1,6 @@
 package com.example.oop_laba9.controller;
 
-import com.example.oop_laba9.controller.models.Song;
+import com.example.oop_laba9.models.Song;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletContext;

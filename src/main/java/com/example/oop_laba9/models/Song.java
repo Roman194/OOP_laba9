@@ -1,4 +1,4 @@
-package com.example.oop_laba9.controller.models;
+package com.example.oop_laba9.models;
 
 public class Song {
 
